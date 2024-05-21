@@ -1,6 +1,7 @@
 {
   "name": "open-factura",
   "version": "0.1.1",
+  "type": "module",
   "author": {
     "name": "Miguel Langarano"
   },
